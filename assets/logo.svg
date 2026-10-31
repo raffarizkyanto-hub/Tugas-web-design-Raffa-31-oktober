@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#d7f5e5"/></linearGradient></defs>
+<circle cx="50" cy="50" r="47" fill="url(#g)" stroke="#e5fff0" stroke-width="3"/>
+<path d="M50 15 79 31v37L50 85 21 68V31z" fill="#198754"/>
+<text x="50" y="57" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="white">P</text>
+</svg>
